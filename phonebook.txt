@@ -1,0 +1,10 @@
+Adam,Mark,12-10-1990,48 washington ave chelsea ma,01231213588,mark.adam@icloud.com
+Brian,Mark,10-12-1990,160 W Addison St.,01565465468,mcanfield@icloud.com
+Cook,Bethany,3-10-1983,13 texas street jersey city,30345566,bcook@hotmail.com
+Graves,Daniel,2-12-1982,48 washington ave chelsea ma,303554564,dgraves@outlook.com
+Graves,Steve,1-12-1982,47 newbury st peabody ma,3046646454,sgraves@yahoo.com
+Jason,Mark,10-4-1988,23 sip Ave #410w,01232165564,mjason@gmail.com
+Jason,Michael,10-3-1984,21 Drydock Ave #410,0100050506,jmichael@icloud.com
+Simpson,Bethany,1-11-1982,11 greenway plaza houston tx,01255987895,bsimpson@gmail.com
+Simpson,Philippe,10-10-1981,33 hudson street jersey city,01248488895,psimpson@gmail.com
+Vindahl,Thomas,1-10-1982,362 11th street brooklyn,01208877955,tvindahl@gmail.com
